@@ -62,5 +62,8 @@
 - Improve the DB schema - PUT all approriate validations on each field in schem
 - Add timestamps to the userSchemas
 - Add API level validation on patch requset a signup post api
-- Data Sanitizing and API validation for each field
+- Data Sanitizing and API validation for each 
+- Install Validator
+- Explore validator library function and Use Validator functions for password, emailId , userId
+- 
 
