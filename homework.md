@@ -65,5 +65,11 @@
 - Data Sanitizing and API validation for each 
 - Install Validator
 - Explore validator library function and Use Validator functions for password, emailId , userId
-- 
+- Never trust req.body
+
+- Validate Data in  Signup API
+- Install bcrypt package
+- Create PasswordHash using bcrypt.hash & save the user is executed password
+- Create login API 
+- Compare passwords and throw errors if email or passwords is invalid
 
