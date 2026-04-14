@@ -94,6 +94,16 @@
 - Import these  routers in app.js
 - Create POST/ logout API
 - Create PATCH/ profile/edit
-- Create PATCH / profile/password API => forgot password API]
+- Create PATCH / profile/password API => forgot password API
 - Make you validate all data in every POST, PATCH apis
 
+- create connection request schema
+- send connection request API
+- Proper validation of data
+- Think  about all corner cases
+- $or query $and query in mongoose
+- schema.pre("save) function
+- Read more about indexes in MongoDB
+- Why do we need index in DB
+- advantages and disadvantages of creating
+- Read this article about compound indexes 
